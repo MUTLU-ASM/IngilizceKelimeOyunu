@@ -1,0 +1,11 @@
+C:\Users\Asım Mutlu\Desktop\udemy -C#-ÇALIŞMA\KelimeOgren\KelimeOgren\bin\Debug\dbSozluk.accdb
+C:\Users\Asım Mutlu\Desktop\udemy -C#-ÇALIŞMA\KelimeOgren\KelimeOgren\bin\Debug\KelimeOgren.exe.config
+C:\Users\Asım Mutlu\Desktop\udemy -C#-ÇALIŞMA\KelimeOgren\KelimeOgren\bin\Debug\KelimeOgren.exe
+C:\Users\Asım Mutlu\Desktop\udemy -C#-ÇALIŞMA\KelimeOgren\KelimeOgren\bin\Debug\KelimeOgren.pdb
+C:\Users\Asım Mutlu\Desktop\udemy -C#-ÇALIŞMA\KelimeOgren\KelimeOgren\obj\Debug\KelimeOgren.csproj.AssemblyReference.cache
+C:\Users\Asım Mutlu\Desktop\udemy -C#-ÇALIŞMA\KelimeOgren\KelimeOgren\obj\Debug\KelimeOgren.frmKelimeOgren.resources
+C:\Users\Asım Mutlu\Desktop\udemy -C#-ÇALIŞMA\KelimeOgren\KelimeOgren\obj\Debug\KelimeOgren.Properties.Resources.resources
+C:\Users\Asım Mutlu\Desktop\udemy -C#-ÇALIŞMA\KelimeOgren\KelimeOgren\obj\Debug\KelimeOgren.csproj.GenerateResource.cache
+C:\Users\Asım Mutlu\Desktop\udemy -C#-ÇALIŞMA\KelimeOgren\KelimeOgren\obj\Debug\KelimeOgren.csproj.CoreCompileInputs.cache
+C:\Users\Asım Mutlu\Desktop\udemy -C#-ÇALIŞMA\KelimeOgren\KelimeOgren\obj\Debug\KelimeOgren.exe
+C:\Users\Asım Mutlu\Desktop\udemy -C#-ÇALIŞMA\KelimeOgren\KelimeOgren\obj\Debug\KelimeOgren.pdb
